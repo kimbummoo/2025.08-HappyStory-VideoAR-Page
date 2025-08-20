@@ -1,9 +1,9 @@
 const cacheName = "FutureVision-PlaygroundQR-0.1.0";
 const contentToCache = [
     "Build/2025.08-HappyStory-VideoAR-Page.loader.js",
-    "Build/2025.08-HappyStory-VideoAR-Page.framework.js",
-    "Build/2025.08-HappyStory-VideoAR-Page.data",
-    "Build/2025.08-HappyStory-VideoAR-Page.wasm",
+    "Build/2025.08-HappyStory-VideoAR-Page.framework.js.unityweb",
+    "Build/2025.08-HappyStory-VideoAR-Page.data.unityweb",
+    "Build/2025.08-HappyStory-VideoAR-Page.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
